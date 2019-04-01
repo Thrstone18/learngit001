@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 lalala~
 111111！
-change master
+Solving merge conflict
